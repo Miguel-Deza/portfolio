@@ -1,7 +1,7 @@
-<video width="600" controls>
-  <source src="./chrome_lH0BIEDg45.mp4" type="video/mp4">
-  Tu navegador no soporta la etiqueta de video.
-</video>
+📽️👇 
+
+[![Mira el video de mi portafolio](./chrome_EsxEwsTxRD.png)](./chrome_lH0BIEDg45.mp4)
+
 
 Hola a todos! 😄👋
 
